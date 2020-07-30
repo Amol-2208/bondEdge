@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CUSIP/CUSIP.iml" filepath="$PROJECT_DIR$/CUSIP/CUSIP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SumOfDistinctPairs/SumOfDistinctPairs.iml" filepath="$PROJECT_DIR$/SumOfDistinctPairs/SumOfDistinctPairs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/bondEdge.iml" filepath="$PROJECT_DIR$/.idea/bondEdge.iml" />
+    </modules>
+  </component>
+</project>
