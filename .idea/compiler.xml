@@ -13,7 +13,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="CUSIP" target="11" />
-      <module name="SumOfDistinctPairs" target="1.5" />
+      <module name="SumOfDistinctPairs" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
